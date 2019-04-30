@@ -9,3 +9,8 @@
 
 ## 결과
 - SW축제때 이루어진 과 동아리 소프트웨어 전시회에서 인기상 1위를 기록하였다.
+
+## 프로그램 실행화면
+![세제제제](https://user-images.githubusercontent.com/46768743/56939557-fe017500-6b43-11e9-9067-73e5018f4112.PNG)
+![세제제제2](https://user-images.githubusercontent.com/46768743/56939558-ff32a200-6b43-11e9-89c8-4d7ad2947eac.PNG)
+![세제제제3](https://user-images.githubusercontent.com/46768743/56939559-ffcb3880-6b43-11e9-99d9-c3e74029ed20.PNG)
