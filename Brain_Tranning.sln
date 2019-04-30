@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Brain_Tranning", "Brain_Tranning\Brain_Tranning.vcxproj", "{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Debug|x64.ActiveCfg = Debug|x64
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Debug|x64.Build.0 = Debug|x64
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Debug|x86.ActiveCfg = Release|Win32
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Debug|x86.Build.0 = Release|Win32
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Release|x64.ActiveCfg = Release|x64
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Release|x64.Build.0 = Release|x64
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Release|x86.ActiveCfg = Release|Win32
+		{E4EA0828-B2D8-4E81-9F45-B01DEF85FBBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06E81FF-4512-4E86-B6F9-0684D6919143}
+	EndGlobalSection
+EndGlobal
